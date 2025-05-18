@@ -1,0 +1,8 @@
+{
+    "mcpServers":{
+        "web_scraper":{
+            "command": "python",
+            "args":["/Users/mohammadaminalizadeh/projects/08_MCP_Agent/mcp_server.py"]
+     }
+    }   
+}
