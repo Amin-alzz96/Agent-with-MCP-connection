@@ -9,4 +9,6 @@ dependencies = [
     "langchain-openai>=0.3.17",
     "mcp[cli]>=1.9.0",
     "requests>=2.32.3",
+    "langchain>=0.1.16",
+    "langchain-mcp-adapters>=0.1.1",
 ]
